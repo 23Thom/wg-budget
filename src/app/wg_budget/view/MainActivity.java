@@ -1,4 +1,6 @@
-package com.example.wg_budget;
+package app.wg_budget.view;
+
+import com.example.wg_budget.R;
 
 import android.os.Bundle;
 import android.app.Activity;
